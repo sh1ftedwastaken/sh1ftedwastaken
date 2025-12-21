@@ -1,48 +1,54 @@
 ## Hi, I'm David 👋
+Computer Science student at the University of Florida.  
+Interested in automation, algorithms, and software systems.
 
-I'm currently a Computer Science student at the University of Florida.  
-I'm interested in automation, algorithms, and software systems.
+---
 
-
-### Current Focus 🔭
+### Current Focus 💡
 - Building automation systems in Python (Minecraft mods)
 - Applying Data Structures & Algorithms in real environments
 - Learning C++ fundamentals
 - Explaining code through YouTube
 
+---
 
 ### Technical Skills 🛠️
-- Languages: Python, C++ (fundamentals), HTML (basic)
-- CS Concepts: Data Structures & Algorithms, OOP, Graph Traversal (BFS/DFS)
-- Tools: Git/GitHub, minescript, Socket  
+- **Languages:** Python, C++ (fundamentals), HTML (basic)
+- **CS Concepts:** Data Structures & Algorithms, OOP, Graph Traversal (BFS/DFS)
+- **Tools:** Git/GitHub, Sockets, MineScript
 
+---
 
 ### Featured Projects 💾
-- Minecraft Auto-Miner Bot v2.0 — Python (In Progress)  
-  Restructured architecture with cleaner modules, improved scalability, and fixed bugs.  
-  🔗 [GitHub Repo] https://github.com/CBTTHH/Minecraft-AutoMiner-BOT.git  
 
-- Minecraft Auto-Miner Bot v1.0 — Python (Done)  
-  Automated mining agent with hazard detection and auto-searching algorithm.  
-  🎥 [YouTube Explanation] https://youtu.be/IdFy5w9tKBE?si=VvAqbU8-Twqg0xNG  
-  
-- Sudoku Game — Python (Done)  
-  Fully playable Sudoku with different difficulties, visuals, UI, and background music.  
-  🔗 [GitHub Repo] https://github.com/CBTTHH/Sudoku---Final-Group-111.git  
+#### Minecraft Auto-Miner Bot v2.0 — *Python* (In Progress)
+Refactored automation system with cleaner architecture, improved scalability, and bug fixes.  
+🔗 [GitHub Repository](https://github.com/CBTTHH/Minecraft-AutoMiner-BOT)
 
+#### Minecraft Auto-Miner Bot v1.0 — *Python* (Completed)
+Automated mining agent with hazard detection and autonomous diamond searching.  
+🎥 [YouTube Explanation](https://youtu.be/IdFy5w9tKBE)
 
-### Education 📖
-University of Florida  
+#### Sudoku Game — *Python* (Completed)
+Fully playable Sudoku with multiple difficulty levels, visuals, UI, and background music.  
+🔗 [GitHub Repository](https://github.com/CBTTHH/Sudoku---Final-Group-111)
+
+---
+
+### Education 🎓 
+**University of Florida**  
 B.S. in Computer Science  
-GPA: 3.85/4.0  
+**GPA:** 3.85 / 4.0
 
+---
 
-### Content 📽️
+### Content 📽️ 
 I have a YouTube channel where I test my code and explain how my projects work and the algorithms behind them.  
-🔗 [Youtube] https://www.youtube.com/@CBTTHH  
+🔗 [YouTube Channel](https://www.youtube.com/@CBTTHH)
 
+---
 
-### 📫 Contact
+### Contact 📱 
 - GitHub: https://github.com/CBTTHH
 - YouTube: https://www.youtube.com/@CBTTHH
 

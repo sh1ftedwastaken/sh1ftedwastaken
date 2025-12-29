@@ -15,7 +15,7 @@ Interested in automation, algorithms, and software systems.
 ### Technical Skills 🛠️
 - **Languages:** Python, C++ (fundamentals), HTML (basic)
 - **CS Concepts:** Data Structures & Algorithms, OOP, Graph Traversal (BFS/DFS)
-- **Tools:** Git/GitHub, Sockets, MineScript
+- **Tools:** Git/GitHub, Threading
 
 ---
 

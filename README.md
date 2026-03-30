@@ -23,7 +23,7 @@ Interested in automation, algorithms, and software systems.
 
 #### Minecraft Auto-Miner Bot v2.0 — *Python* (In Progress)
 Refactored automation system with cleaner architecture, improved scalability, and bug fixes.  
-🔗 [GitHub Repository](https://github.com/CBTTHH/Minecraft-AutoMiner-BOT)
+🔗 [GitHub Repository](https://github.com/sh1ftedwastaken/Minecraft-AutoMiner-BOT)
 
 #### Minecraft Auto-Miner Bot v1.0 — *Python* (Completed)
 Automated mining agent with hazard detection and autonomous diamond searching.  
@@ -31,7 +31,7 @@ Automated mining agent with hazard detection and autonomous diamond searching.
 
 #### Sudoku Game — *Python* (Completed)
 Fully playable Sudoku with multiple difficulty levels, visuals, UI, and background music.  
-🔗 [GitHub Repository](https://github.com/CBTTHH/Sudoku---Final-Group-111)
+🔗 [GitHub Repository](https://github.com/sh1ftedwastaken/Sudoku---Final-Group-111)
 
 ---
 
@@ -44,18 +44,18 @@ B.S. in Computer Science
 
 ### Content 📽️ 
 I have a YouTube channel where I test my code and explain how my projects work and the algorithms behind them.  
-🔗 [YouTube Channel](https://www.youtube.com/@CBTTHH)
+🔗 [YouTube Channel](https://github.com/sh1ftedwastaken)
 
 ---
 
 ### Contact 📱 
-- GitHub: https://github.com/CBTTHH
-- YouTube: https://www.youtube.com/@CBTTHH
+- GitHub: [https://github.com/sh1ftedwastaken](https://github.com/sh1ftedwastaken)
+- YouTube: [https://www.youtube.com/@sh1ftedwastaken](https://www.youtube.com/@sh1ftedwastaken)
 
 
   
 <!--
-**CBTTHH/CBTTHH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SH1FTED** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
